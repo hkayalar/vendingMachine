@@ -32,7 +32,6 @@ public class Movie {
     }
 
     //setters
-
     public void setName(String name){
         this.name=name;
     }
